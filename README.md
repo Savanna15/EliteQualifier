@@ -24,3 +24,4 @@ Simply open the program and click the run option or variation of it to begin the
 Simply tell the bot which fandom you want to discuss and go from there!
 
 ### Any optional sections
+Hope you enjoy chatting!
